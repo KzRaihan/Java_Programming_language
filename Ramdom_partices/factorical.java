@@ -8,7 +8,7 @@ public class factorical {
         Scanner sc = new Scanner(System.in);
         
         System.out.print("Enter any integer: ");
-        int num = sc.nextInt();
+        double num = sc.nextDouble();
 
         double fact = 1;
         for(int i=1;i<=num;i++)

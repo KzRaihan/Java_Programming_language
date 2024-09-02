@@ -1,7 +1,6 @@
-
 /* 
  * Write a program to find the number of integer divisible by 5 between the given range
- * num1 and num2, where num1 < num 2 .
+ * num1 and num2, where num1 < num2 .
  * Also find the sum of all these integer numbers which are divisible by 5 and display the total.
 */
 import java.util.*;

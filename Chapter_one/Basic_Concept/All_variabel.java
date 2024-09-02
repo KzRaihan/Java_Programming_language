@@ -8,7 +8,7 @@ public class All_variabel {
         double d = 1.7976931348623157E308d; // range (4.9E-324 to 1.7976931348623157E308)
         char c = 'K'; // range (0 to 65535)
 
-        System.out.println("b : " + b);
+        System.out.println("b: " + b);
         System.out.println("s: " + s);
         System.out.println("i: " + i);
         System.out.println("l: " + l);

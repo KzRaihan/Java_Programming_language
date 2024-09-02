@@ -15,8 +15,8 @@ public class Reverse_number_another_way {
         int Reverse = 0;
         while(num>0)
         {
-            int last_number = num % 10;
-            Reverse = Reverse * 10 + last_number;
+            int last_digit = num % 10;
+            Reverse = Reverse * 10 + last_digit;
             num /= 10;
 
         }

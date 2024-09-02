@@ -3,7 +3,7 @@ public class Type_conversion {
         
         byte b;
 
-        int i = 128;
+        int i = 257;
 
         double d = 323.142;
 
@@ -14,7 +14,7 @@ public class Type_conversion {
         System.out.println("Conversion double to int: " + d + " " + i);
         b = (byte) d;
         
-        System.out.println("Conversion double to byte: " + d + " " + i);
+        System.out.println("Conversion double to byte: " + d + " " + b);
        
 
     }
